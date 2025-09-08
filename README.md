@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📘 Aula – Meu Projeto em Go
 
 Este repositório é o **projeto base da disciplina**.  
@@ -72,3 +73,6 @@ git push -u origin main
   - Criar uma nova função `Fibonacci(n int) int` no arquivo `internal/fibonacci/fibonacci.go` que retorna o n-ésimo número da sequência de Fibonacci.
   - Chamar essa função no `main.go` e imprimir o resultado.
   - Rodar, testar e subir no GitHub.
+=======
+# Meu-Projeto-Go
+>>>>>>> c7edec05d5b533a8cca0db420f1acdd5eb386ee3
